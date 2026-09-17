@@ -53,6 +53,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [Browser Use Sandboxes](https://docs.browser-use.com/customize/sandbox/quickstart) - Production browser automation.
 - [ComputeSDK](https://www.computesdk.com/) - Universal API across multiple cloud providers with automatic provider detection.
 - [VibeKit](https://docs.vibekit.sh/) - SDK supporting E2B, Daytona, Modal, and other providers.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Freezes an agent run's provider traffic into a local trace and replays it offline, or forks the same recording onto another model, so two runs can be diffed without re-executing the agent or calling the provider again.
 
 ## Contributing
 
